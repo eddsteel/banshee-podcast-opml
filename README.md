@@ -12,7 +12,7 @@ The OPML is output to std out, which can be directed to a file.
 
 Required gems
 -------------
-You will need the SQLite3 gem (`gem install sqlite3`).
+You will need the SQLite3 and builder gems (`gem install sqlite3 builder`).
 
 Attribution and Licence
 -----------------------
